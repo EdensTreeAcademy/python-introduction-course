@@ -1,0 +1,51 @@
+Module 5: Data Structures in Python
+Introduction
+Data structures are fundamental to any programming language, enabling efficient storage and manipulation of data. Python offers a variety of built-in data structures, each with its unique properties and use cases. In this module, we will explore these data structures, understand when to use them, and learn how to apply them to solve common programming tasks.
+
+Objectives
+Learn about Python's built-in data structures: lists, dictionaries, sets, and tuples.
+Understand how to create, access, and manipulate data within these structures.
+Explore the specific advantages and use cases for each data structure.
+Lists
+Lists are ordered collections of items that can be changed after their creation (mutable). They are versatile and can hold items of different data types.
+
+python
+Copy code
+# Creating and modifying a list
+fruits = ["apple", "banana", "cherry"]
+fruits.append("orange")  # Adding an item
+print(fruits)
+Dictionaries
+Dictionaries store data as key-value pairs. They are unordered collections but are indexed by keys, which must be unique.
+
+python
+Copy code
+# Creating and accessing a dictionary
+person = {"name": "John", "age": 30, "city": "New York"}
+print(person["name"])
+Sets
+Sets are unordered collections of unique items. They are useful for eliminating duplicate entries and performing common set operations like union and intersection.
+
+python
+Copy code
+# Creating a set and adding items
+colors = {"red", "green", "blue"}
+colors.add("yellow")
+print(colors)
+Tuples
+Tuples are similar to lists but are immutable (cannot be changed after creation). They are often used to store a collection of items that belong together.
+
+python
+Copy code
+# Creating a tuple
+dimensions = (20, 50, 30)
+print(dimensions[0])
+Practice Exercises
+Create a list of your favorite movies and use a loop to print each one.
+Make a dictionary representing a book with properties for title, author, and year. Print each property.
+Create a set of unique skills, then add a new skill and remove an existing one.
+Write a function that accepts a tuple containing a person's name and age, and returns a string formatted with those values.
+Conclusion
+Understanding and utilizing Python's data structures effectively is crucial for solving a wide range of programming problems. By mastering lists, dictionaries, sets, and tuples, you're equipped to handle complex data manipulation tasks with ease.
+
+
