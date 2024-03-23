@@ -1,0 +1,6 @@
+Lesson 2: Loops
+
+Introduction to for loops and iterating over sequences.
+Using while loops for repeated execution as long as a condition is true.
+Loop control statements: break, continue, and else clauses in loops.
+Practice exercises: Write programs that use loops to process data, such as calculating the sum of numbers in a list or generating patterns.
