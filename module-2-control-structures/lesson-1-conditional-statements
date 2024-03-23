@@ -1,3 +1,29 @@
 /python-introduction-course
-    lesson-1-conditional-statements.md
-        
+    if condition:
+    # Code to execute if condition is true
+lesson-1-conditional-statements.md
+        elif another_condition:
+    # Code to execute if another_condition is true
+else:
+    # Code to execute if previous conditions are false
+Age Gate: Write a program that asks for the user's age and prints whether they are old enough to vote (18 and above).
+age = int(input("Enter your age: "))
+if age >= 18:
+    print("You are old enough to vote!")
+else:
+    print("Sorry, you are not old enough to vote yet.")
+Grade Calculator: Create a program that calculates and prints grades based on scores. Use if, elif, and else to determine the grade (A, B, C, D, F).
+score = int(input("Enter your score: "))
+if score >= 90:
+    print("Grade: A")
+elif score >= 80:
+    print("Grade: B")
+elif score >= 70:
+    print("Grade: C")
+elif score >= 60:
+    print("Grade: D")
+else:
+    print("Grade: F")
+Conditional statements are the backbone of decision-making in Python. By mastering if, elif, and else, you're well on your way to creating programs that can think and make decisions. Keep experimenting with different conditions and scenarios to see how you can control the flow of your Python scripts.
+
+
