@@ -1,0 +1,56 @@
+
+Module 4: Control Structures and Error Handling
+Introduction
+In this module, we'll explore Python's control structures including if-else statements, for and while loops with a deeper insight, and the concept of error handling using try-except blocks. Mastering these concepts will allow you to write more dynamic, efficient, and safe Python programs.
+
+Objectives
+Understand and apply if-else conditional statements.
+Deepen knowledge of loops with more complex examples.
+Learn the basics of error handling in Python.
+If-Else Statements
+If-else statements are used for decision-making in Python. Based on a condition, the program can execute different blocks of code.
+
+python
+Copy code
+def evaluate_number(number):
+    if number > 0:
+        print("Positive number")
+    elif number == 0:
+        print("Zero")
+    else:
+        print("Negative number")
+
+evaluate_number(5)  # Positive number
+For and While Loops
+We've already introduced loops, but let's explore more complex uses, including nested loops and controlling loop execution with break and continue.
+
+python
+Copy code
+# Using continue to skip even numbers
+for i in range(1, 10):
+    if i % 2 == 0:
+        continue
+    print(i)  # Prints odd numbers from 1 to 9
+Error Handling
+Error handling is crucial for creating reliable programs. Python uses try-except blocks to catch and handle exceptions.
+
+python
+Copy code
+def divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        print("Error: Cannot divide by zero.")
+    except TypeError:
+        print("Error: Please provide two numbers.")
+    finally:
+        print("Operation attempted.")
+
+divide(10, 0)
+Practice Exercises
+Write an if-else statement that checks if a number is divisible by both 2 and 3.
+Create a nested loop that prints a 5x5 matrix of asterisks (*).
+Write a function that catches a ValueError exception, which should prompt the user for a valid integer input.
+Conclusion
+With a solid grasp of control structures and error handling, you're equipped to write Python programs that are not only logical but also resilient to errors. These skills are fundamental as you progress to more complex programming challenges.
+
