@@ -1,0 +1,2 @@
+def greet():
+    print("Hello, welcome to Module 3: Functions in Python!")
