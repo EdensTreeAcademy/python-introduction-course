@@ -88,4 +88,127 @@ family:Helvetica; font-size:15px; line-
 height:150%; text-
 align:left; } .headerContainer .
 mwpTextContent a{ color:#26ABE2; font-
-weight:normal; text-decoration:underline; } #templateBody{ background-color:#eeeeee; border-top:0; border-bottom:0; } #bodyBackground{ background-color:#FFFFFF; border:1px none #D5D5D5; } .bodyContainer .mwpTextContent,.bodyContainer .mwpTextContent p{ color:#606060; font-family:Helvetica; font-size:15px; line-height:150%; text-align:left; } .bodyContainer .mwpTextContent a{ color:#1494b2; font-weight:normal; text-decoration:none; } #templateFooter{ background-color:#323539; border-top:0; border-bottom:0; } .footerContainer .mwpTextContent,.footerContainer .mwpTextContent p{ color:#fafafa; font-family:Helvetica; font-size:11px; line-height:150%; text-align:center; } .footerContainer .mwpTextContent a{ color:#43a9c2; font-weight:normal; text-decoration:none; } @media only screen and (max-width: 480px){ body,table,td,p,a,li,blockquote{ -webkit-text-size-adjust:none !important; } } @media only screen and (max-width: 480px){ body{ width:100% !important; min-width:100% !important; } } @media only screen and (max-width: 480px){ .templateContainer{ max-width:600px !important; width:100% !important; } } @media only screen and (max-width: 480px){ .mwpImage{ height:auto !important; width:100% !important; } } @media only screen and (max-width: 480px){ .mwpCartContainer,.mwpCaptionTopContent,.mwpRecContentContainer,.mwpCaptionBottomContent,.mwpTextContentContainer,.mwpBoxedTextContentContainer,.mwpImageGroupContentContainer,.mwpCaptionLeftTextContentContainer,.mwpCaptionRightTextContentContainer,.mwpCaptionLeftImageContentContainer,.mwpCaptionRightImageContentContainer,.mwpImageCardLeftTextContentContainer,.mwpImageCardRightTextContentContainer{ max-width:100% !important; width:100% !important; } } @media only screen and (max-width: 480px){ .mwpBoxedTextContentContainer{ min-width:100% !important; } } @media only screen and (max-width: 480px){ .mwpImageGroupContent{ padding:9px !important; } } @media only screen and (max-width: 480px){ .mwpCaptionLeftContentOuter .mwpTextContent,.mwpCaptionRightContentOuter .mwpTextContent{ padding-top:9px !important; } } @media only screen and (max-width: 480px){ .mwpImageCardTopImageContent,.mwpCaptionBlockInner .mwpCaptionTopContent:last-child .mwpTextContent{ padding-top:18px !important; } } @media only screen and (max-width: 480px){ .mwpImageCardBottomImageContent{ padding-bottom:9px !important; } } @media only screen and (max-width: 480px){ .mwpImageGroupBlockInner{ padding-top:0 !important; padding-bottom:0 !important; } } @media only screen and (max-width: 480px){ .mwpImageGroupBlockOuter{ padding-top:9px !important; padding-bottom:9px !important; } } @media only screen and (max-width: 480px){ .mwpTextContent,.mwpBoxedTextContentColumn{ padding-right:18px !important; padding-left:18px !important; } } @media only screen and (max-width: 480px){ .mwpImageCardLeftImageContent,.mwpImageCardRightImageContent{ padding-right:18px !important; padding-bottom:0 !important; padding-left:18px !important; } } @media only screen and (max-width: 480px){ .mcpreview-image-uploader{ display:none !important; width:100% !important; } } @media only screen and (max-width: 480px){ h1{ font-size:18px !important; line-height:150% !important; } } @media only screen and (max-width: 480px){ h2{ font-size:16px !important; line-height:150% !important; } } @media only screen and (max-width: 480px){ h3{ font-size:14px !important; line-height:150% !important; } } @media only screen and (max-width: 480px){ h4{ font-size:12px !important; line-height:150% !important; } } @media only screen and (max-width: 480px){ .mwpBoxedTextContentContainer .mwpTextContent,.mwpBoxedTextContentContainer .mwpTextContent p{ font-size:18px !important; line-height:125% !important; } } @media only screen and (max-width: 480px){ #templatePreheader{ display:none !important; } } @media only screen and (max-width: 480px){ .preheaderContainer .mwpTextContent,.preheaderContainer .mwpTextContent p{ font-size:12px !important; line-height:115% !important; } } @media only screen and (max-width: 480px){ .headerContainer .mwpTextContent,.headerContainer .mwpTextContent p{ font-size:18px !important; line-height:150% !important; } } @media only screen and (max-width: 480px){ .bodyContainer .mwpTextContent,.bodyContainer .mwpTextContent p{ font-size:14px !important; line-height:150% !important; } } @media only screen and (max-width: 480px){ .footerContainer .mwpTextContent,.footerContainer .mwpTextContent p{ font-size:12px !important; line-height:150% !important; } } @media only screen and (max-width: 480px){ .mwpSingleArticleTextContent,.mwpSingleArticleImageContent{ display: block !important; padding-left: 0px !important; } }</style></head> <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="height: 100%;margin: 0;padding: 0;width: 100%;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #363636;"> <center> <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;height: 100%;margin: 0;padding: 0;width: 100%;background-color: #363636;"> <tr> <td align="center" valign="top" id="bodyCell" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;height: 100%;margin: 0;padding: 0;width: 100%;border-top: 0;"> <!-- BEGIN TEMPLATE // --> <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <tr> <td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <!-- BEGIN PREHEADER // --> <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templatePreheader" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #eeeeee;border-top: 0;border-bottom: 1px none #D5D5D5;"> <tr> <td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <table border="0" cellpadding="0" cellspacing="0" width="600" class="templateContainer" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <tr> <td valign="top" class="preheaderContainer" style="padding-top: 10px;padding-bottom: 10px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mwpTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <tbody class="mwpTextBlockOuter"> <tr> <td valign="top" class="mwpTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <!--[if mso]> <table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;"> <tr> <![endif]--> <!--[if mso]> <td valign="top" width="600" style="width:600px;"> <![endif]--> <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mwpTextContentContainer"> <tbody><tr> <td valign="top" class="mwpTextContent" style="padding: 0px 18px 9px;line-height: 100%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #606060;font-family: Helvetica;font-size: 11px;text-align: left;"> <div style="text-align: right;"><span style="font-size:12px"><span style="color:#686A6F"><u><span style="font-family:open sans,helvetica neue,helvetica,sans-serif"><span style="font-weight:200"></span></span></u></span></span></div> </td> </tr> </tbody></table> <!--[if mso]> </td> <![endif]--> <!--[if mso]> </tr> </table> <![endif]--> </td> </tr> </tbody> </table></td> </tr> </table> </td> </tr> </table> <!-- // END PREHEADER --> </td> </tr> <tr> <td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <!-- BEGIN HEADER // --> <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateHeader" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #EEEEEE;border-top: 0;border-bottom: 0;"> <tr> <td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <table border="0" cellpadding="0" cellspacing="0" width="600" class="templateContainer" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <tr> <td valign="top" class="headerContainer" style="padding-top: 15px;padding-bottom: 10px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mwpImageBlock" style="min-width: 100%;borde
+weight:normal; text-
+decoration:underline; } 
+#templateBody{ background-
+color:#eeeeee; border-top:0; border-
+bottom:0; } 
+#bodyBackground{ background-
+color:#FFFFFF; border:1px none #D5D5D5; 
+} .bodyContainer .mwpTextContent,.
+
+bodyContainer .mwpTextContent 
+p{ color:#606060; font-
+family:Helvetica; font-size:15px; 
+line-height:150%; text-
+align:left; } .bodyContainer .
+mwpTextContent a{ color:#1494b2; font-
+weight:normal; text-decoration:none; } 
+#templateFooter{ background-
+color:#323539; border-top:0; border-
+bottom:0; } .footerContainer .
+mwpTextContent,.footerContainer .
+mwpTextContent p{ color:#fafafa; font-
+family:Helvetica; font-size:11px; 
+line-height:150%; text-align:center; } 
+.footerContainer .mwpTextContent 
+a{ color:#43a9c2; font-weight:normal; 
+text-decoration:none; } @media only 
+screen and (max-width: 480px)
+{ body,table,td,p,a,li,blockquote{ -
+webkit-text-size-adjust:none !
+important; } } @media only screen and 
+(max-width: 480px){ body{ width:100% !
+important; min-width:100% !
+important; } } @media only screen and 
+(max-width: 480px)
+{ .templateContainer{ max-
+width:600px !important; width:100% !
+important; } } @media only screen and 
+(max-y(and and width: 480px)
+hun{ .mwpImage{ height:auto !
+important; width:100% !important; } } 
+@media only screen and (max-width: 
+480px)
+{ .mwpCartContainer,.
+mwpCaptionTopContent,.
+mwpRecContentContainer,.
+mwpCaptionBottomContent,.
+mwpTextContentContainer,.
+mwpBoxedTextContentContainer,.
+mwpImageGroupContentContainer,.
+mwpCaptionLeftTextContentContainer,.
+mwpCaptionRightTextContentContainer,.
+mwpCaptionLeftImageContentContainer,.
+mwpCaptionRightImageContentContainer,.
+mwpImageCardLeftTextContentContainer,.
+mwpImageCardRightTextContentContainer{ 
+max-width:100% !important; 
+width:100% !important; } } @media only 
+screen and (max-width: 480px)
+{ .mwpBoxedTextContentContainer{ min-
+width:100% !important; } } @media only 
+screen and (max-width: 480px)
+{ .mwpImageGroupContent{ padding:9px !
+important; } } @media only screen and 
+(max-width: 480px)
+{ .mwpCaptionLeftContentOuter .
+mwpTextContent,.
+mwpCaptionRightContentOuter .
+mwpTextContent{ padding-top:9px !
+important; } } @media only screen and 
+(max-width: 480px)
+{ .mwpImageCardTopImageContent,.
+mwpCaptionBlockInner .
+mwpCaptionTopContent:last-
+child .mwpTextContent{ padding-
+top:18px !important; } } @media only 
+screen and (max-width: 480px)
+{ .mwpImageCardBottomImageContent{ 
+padding-bottom:9px !important; } } 
+@media only screen and (max-width: 
+480px)
+{ .mwpImageGroupBlockInner{ padding-
+top:0 !important; padding-bottom:0 !
+important; } } @media only screen and 
+(max-width: 480px)
+{ .mwpImageGroupBlockOuter{ padding-
+top:9px !important; padding-bottom:9px 
+!important; } } @media only screen and 
+(max-width: 480px)
+{ .mwpTextContent,.
+mwpBoxedTextContentColumn{ padding-
+right:18px !important; padding-
+left:18px !important; } } @media only 
+screen and (max-width: 480px)
+{ .mwpImageCardLeftImageContent,.
+mwpImageCardRightImageContent{ padding
+-right:18px !important; padding-
+bottom:0 !important; padding-left:18px 
+!important; } } @media only screen and 
+(max-width: 480px){ .mcpreview-image-
+uploader{ display:none !important; 
+width:100% !important; } } @media only 
+screen and (max-width: 480px)
+{ h1{ font-size:18px !important; line-
+height:150% !important; } } @media 
+only screen and (max-width: 480px)
+{ h2{ font-size:16px !important; line-
+height:150% !important; } } @media 
+only screen and (max-width: 480px)
+{ h3{ font-size:14px !important; line-
+height:150% !important; } } @media 
+only screen and (max-width: 480px)
+{ h4{ font-size:12px !important; line-
+height:150% !important; } } @media 
+only screen and (max-width: 480px)
+{ .mwpBoxedTextContentContainer .
+mwpTextContent,.
+mwpBoxedTextContentContainer .
+mwpTextContent p{ font-size:18px !
+important; line-height:125% !
+important; } } @media only screen and 
+(max-width: 480px)
+{ #templatePreheader{ display:none !
+important; } } @media only screen and 
+(max-width: 480px){ .preheaderContainer .mwpTextContent,.preheaderContainer .mwpTextContent p{ font-size:12px !important; line-height:115% !important; } } @media only screen and (max-width: 480px){ .headerContainer .mwpTextContent,.headerContainer .mwpTextContent p{ font-size:18px !important; line-height:150% !important; } } @media only screen and (max-width: 480px){ .bodyContainer .mwpTextContent,.bodyContainer .mwpTextContent p{ font-size:14px !important; line-height:150% !important; } } @media only screen and (max-width: 480px){ .footerContainer .mwpTextContent,.footerContainer .mwpTextContent p{ font-size:12px !important; line-height:150% !important; } } @media only screen and (max-width: 480px){ .mwpSingleArticleTextContent,.mwpSingleArticleImageContent{ display: block !important; padding-left: 0px !important; } }</style></head> <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="height: 100%;margin: 0;padding: 0;width: 100%;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #363636;"> <center> <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;height: 100%;margin: 0;padding: 0;width: 100%;background-color: #363636;"> <tr> <td align="center" valign="top" id="bodyCell" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;height: 100%;margin: 0;padding: 0;width: 100%;border-top: 0;"> <!-- BEGIN TEMPLATE // --> <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <tr> <td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <!-- BEGIN PREHEADER // --> <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templatePreheader" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #eeeeee;border-top: 0;border-bottom: 1px none #D5D5D5;"> <tr> <td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <table border="0" cellpadding="0" cellspacing="0" width="600" class="templateContainer" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <tr> <td valign="top" class="preheaderContainer" style="padding-top: 10px;padding-bottom: 10px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mwpTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <tbody class="mwpTextBlockOuter"> <tr> <td valign="top" class="mwpTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <!--[if mso]> <table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;"> <tr> <![endif]--> <!--[if mso]> <td valign="top" width="600" style="width:600px;"> <![endif]--> <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mwpTextContentContainer"> <tbody><tr> <td valign="top" class="mwpTextContent" style="padding: 0px 18px 9px;line-height: 100%;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #606060;font-family: Helvetica;font-size: 11px;text-align: left;"> <div style="text-align: right;"><span style="font-size:12px"><span style="color:#686A6F"><u><span style="font-family:open sans,helvetica neue,helvetica,sans-serif"><span style="font-weight:200"></span></span></u></span></span></div> </td> </tr> </tbody></table> <!--[if mso]> </td> <![endif]--> <!--[if mso]> </tr> </table> <![endif]--> </td> </tr> </tbody> </table></td> </tr> </table> </td> </tr> </table> <!-- // END PREHEADER --> </td> </tr> <tr> <td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <!-- BEGIN HEADER // --> <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateHeader" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #EEEEEE;border-top: 0;border-bottom: 0;"> <tr> <td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <table border="0" cellpadding="0" cellspacing="0" width="600" class="templateContainer" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <tr> <td valign="top" class="headerContainer" style="padding-top: 15px;padding-bottom: 10px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mwpImageBlock" style="min-width: 100%;borde
